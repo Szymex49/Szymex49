@@ -1,1 +1,1 @@
-Hi, my name is Szymon and I am a third year student of applied mathematics at Wrocław University of Science and Technology. I am focusing on developing new data analysis and data science skills. Currently I am learning R and SQL.
+Hi, my name is Szymon and I am a 4th year student of applied mathematics at Wrocław University of Science and Technology. I am focusing on developing new data analysis and data science skills. Currently I am learning R and SQL.
